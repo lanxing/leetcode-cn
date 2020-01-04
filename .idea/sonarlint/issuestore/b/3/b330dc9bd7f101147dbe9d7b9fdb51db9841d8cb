@@ -1,2 +1,3 @@
 
-Ksquid:S1172&"-Remove this unused method parameter "target".(ÅÆúœ8ˆžÿýõ-
+psquid:S3776'"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÅÆúœ8Ë©Œ¯ö-
+Bsquid:S16595"Declare "j" on a separate line.(¤ØÅõÿÿÿÿÿ8Æª¤¯ö-
