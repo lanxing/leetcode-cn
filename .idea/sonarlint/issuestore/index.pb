@@ -17,3 +17,17 @@ O
 src/arrays/16.3sum-closest.java,a/0/a02ec87a9bb39ab1b9603f50744d782e8fa85af0
 G
 src/arrays/18.4sum.java,b/3/b330dc9bd7f101147dbe9d7b9fdb51db9841d8cb
+Q
+!src/arrays/27.remove-element.java,8/1/819742a18aeb73514b6100cd6ba8c8684e1f2a3a
+f
+6src/arrays/26.remove-duplicates-from-sorted-array.java,b/4/b4c7f398eb475305583eceb66c8fc4a81d7b4644
+S
+#src/arrays/31.next-permutation.java,f/6/f6a222db3053c2635dd99719fefe7f27085b37dd
+z
+Jsrc/arrays/34.find-first-and-last-position-of-element-in-sorted-array.java,3/4/3452438ee988fc0e214d46abc6092d850f273015
+Y
+)src/arrays/35.search-insert-position.java,6/3/63e16c31f51ffaa187fa8de3190f918ab06b3bb5
+a
+1src/arrays/33.search-in-rotated-sorted-array.java,3/0/3091e5caf1b1ceea8e7e3e8afaa439032fe6803c
+R
+"src/arrays/39.combination-sum.java,c/3/c36b35e0dad45847b1b61c997fdf1a0b45834a23
