@@ -1,10 +1,0 @@
-
-[squid:S1197^"8Move the array designator from the variable to the type.(Ÿø½¦üÿÿÿÿ8‘õĞÜô-
-psquid:S37761"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´øÿ£8¤ËÜô-
-psquid:S3776f"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿…şå8‘õĞÜô-
-nsquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ıÊ¡Şûÿÿÿÿ8ÔãËÜô-
-osquid:S1871H"LThis branch's code block is the same as the block for the branch on line 69.(Ö›»«úÿÿÿÿ8’şÎÜô-
-?squid:S1659?""Declare "val2" on a separate line.(óå©j8Š£ÈÜô-
-jsquid:S1871K"LThis branch's code block is the same as the block for the branch on line 66.(å¥‡8‘õĞÜô-
-Bsquid:S1659>"Declare "j" on a separate line.(á”æåşÿÿÿÿ8‹ë¹Üô-
-Esquid:S1659l""Declare "high" on a separate line.(ñÊ¹øûÿÿÿÿ8‘õĞÜô-
