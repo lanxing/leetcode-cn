@@ -15,18 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/arrays/40.combination-sum-ii.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1479">
-              <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/41.first-missing-positive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="986">
@@ -53,11 +41,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arrays/55.jump-game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="28" column="17" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
+            <state relative-caret-position="300">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arrays/56.merge-intervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -148,10 +145,12 @@
         <option value="$PROJECT_DIR$/src/arrays/48.rotate-image.java" />
         <option value="$PROJECT_DIR$/src/arrays/53.maximum-subarray.java" />
         <option value="$PROJECT_DIR$/src/arrays/54.spiral-matrix.java" />
+        <option value="$PROJECT_DIR$/src/arrays/55.jump-game.java" />
+        <option value="$PROJECT_DIR$/src/arrays/56.merge-intervals.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -200,6 +199,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
               <item name="55.jump-game.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="56.merge-intervals.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -270,15 +276,16 @@
       <workItem from="1578307933358" duration="4375000" />
       <workItem from="1578480565392" duration="4504000" />
       <workItem from="1578824638087" duration="2653000" />
-      <workItem from="1579431518548" duration="1410000" />
+      <workItem from="1579431518548" duration="2310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5896000" />
+    <option name="totallyTimeSpent" value="6796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -427,8 +434,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arrays/55.jump-game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/56.merge-intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
         </state>
       </provider>
     </entry>
